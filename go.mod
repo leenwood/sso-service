@@ -1,3 +1,3 @@
-module awesomeProject1
+module github.com/leenwood/sso-service
 
 go 1.23
